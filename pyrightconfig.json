@@ -1,0 +1,33 @@
+{
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "__pycache__",
+        ".ipynb_checkpoints",
+        "package",
+        "datasets",
+        "wandb",
+        "bash_script",
+        "debug",
+        "log",
+        "unarxive_script",
+        "checkpoints",
+        "**/.ipynb_checkpoints",
+        ".vscode",
+        "backup",
+        "Notebook",
+        "config",
+        "data",
+        "FastChat-old",
+        "lock",
+        "notebook",
+        "output",
+        "pretrain_weights",
+        "qd_uniem",
+        "script",
+        "art",
+        "package",
+        "grobid_client_python",
+        "unarxive_script"
+    ]
+}
