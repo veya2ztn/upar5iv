@@ -1,4 +1,9 @@
 # Usage
+for single file
+```
+python python_script/html_to_json.py --root datasets/ar5iv/no-problem/0003/cond-mat0003325.html --savepath datasets/ar5iv/no_problem_json/ 
+```
+for a batch of files (store the file list in a file endswith `.filelist`)
 
 ```
 python python_script/html_to_json.py --root datasets/ar5iv/no_problem.html.filelist --savepath datasets/ar5iv/no_problem_json/ 
